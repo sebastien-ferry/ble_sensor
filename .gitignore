@@ -1,0 +1,5 @@
+__pycache__/
+v*/
+*password.py
+*pyc
+*log
