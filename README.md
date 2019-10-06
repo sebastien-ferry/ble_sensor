@@ -1,6 +1,8 @@
+Related to: <https://sebastien-ferry.github.io/playing-with-ble/>
+
 # ble_sensor : Bluetooth LE sensor
 
-![Raspberry pi zero W](https://sebastien-ferry.github.io/assets/ble_raspberry_pi_zero_w_1-5_large.png){: style="float:right; width:30%"}
+![Raspberry pi zero W](<https://sebastien-ferry.github.io/assets/ble_raspberry_pi_zero_w_1-5_large.png>){: style="float:right; width:30%"}
 
 ## Setup: database + raspberry pi zero W
 
